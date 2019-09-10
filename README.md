@@ -4,8 +4,8 @@ Tools Installer [ Army Cyber Network ] 100 Tool in 1
 ```
 $pkg install git
 $pkg install python2 -y
-$pkg install ruby figlet -y
-$gem install lolcat
+$pkg install figlet
+$pip2 install lolcat
 ```
 # Login
 ```
