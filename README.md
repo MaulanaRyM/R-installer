@@ -9,6 +9,7 @@ $pip2 install lolcat
 ```
 # Update
 ```
+$cd ACNv3
 $git pull
 ```
 # Login
