@@ -7,6 +7,10 @@ $pkg install python2 -y
 $pkg install figlet
 $pip2 install lolcat
 ```
+# Update
+```
+$git pull
+```
 # Login
 ```
 Username : Maulanarym
