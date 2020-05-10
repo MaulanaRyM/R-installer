@@ -18,5 +18,5 @@ Tool ini Rata-rata berisikan Tools Terbaru</br>Jika Ada yg Error Contact Me</br>
 # Follow Me On
 <a href='https://fb.me/Rizqy.Yusuf.Maulana' target='blank'>Facebook</a></br>
 <a href='https://www.instagram.com/rizqymaulanarym' target='blank'>Instagram</a></br>
-or on <a href='https://www.facebook.com/groups/236316427460938'>Cyber Hacker Indonesia V.2 (CHI v.2) facebook group</a></br>
+<a href='https://www.facebook.com/groups/236316427460938' target='blank'>Cyber Hacker Indonesia V.2 (CHI v.2) facebook group</a></br>
 Enjoyyy...
