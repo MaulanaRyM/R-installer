@@ -14,7 +14,7 @@ $sh install.sh
 Username : Maulanarym
 Password : subscribe
 ```
-Tool ini Rata-rata berisikan Tools Terbaru</br>Jika Ada yg Error Contact Me</br>
+*Tool ini Rata-rata berisikan Tools Terbaru</br>Jika Ada yg Error Contact Me*</br>
 # Follow Me On
 <a href='https://fb.me/Rizqy.Yusuf.Maulana' target='blank'>Facebook</a></br>
 <a href='https://www.instagram.com/rizqymaulanarym' target='blank'>Instagram</a></br>
