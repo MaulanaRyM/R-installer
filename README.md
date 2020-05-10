@@ -1,26 +1,22 @@
-# ACNv3
-Tools Installer [ Army Cyber Network ] 100 Tool in 1
-# Need Install
+# R - Installer
+Tools Installer By Me ( 120 Tool in 1 )
+# How to install
 ```
-$pkg install git
-$pkg install python2 -y
-$pkg install figlet
+$pkg update && apt upgrade
+$pkg install git python2 figlet -y
 $pip2 install lolcat
-```
-# Update
-```
-$cd ACNv3
-$git pull
+$git clone https://github.com/MaulanaRyM/R-installer
+$cd R-installer
+$sh install.sh
 ```
 # Login
 ```
 Username : Maulanarym
 Password : subscribe
 ```
-Tool ini Rata-rata berisikan Tools Terbaru</br>
-Jika Ada yg Error Contact Me</br>
-# Contact Me
-Facebook : https://fb.me/Maulana.Rym</br>
-Instagram : https://www.instagram.com/rizqymaulanarym/</br>
-
+Tool ini Rata-rata berisikan Tools Terbaru</br>Jika Ada yg Error Contact Me</br>
+# Follow Me On
+<a href='https://fb.me/Rizqy.Yusuf.Maulana' target='blank'>Facebook</a></br>
+<a href='https://www.instagram.com/rizqymaulanarym' target='blank'>Instagram</a></br>
+or on <a href='https://www.facebook.com/groups/236316427460938'>Cyber Hacker Indonesia V.2 (CHI v.2) facebook group</a></br>
 Enjoyyy...
