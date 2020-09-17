@@ -18,5 +18,5 @@ Password : subscribe
 # Follow Me On
 <a href='https://fb.me/Rizqy.Yusuf.Maulana' target='blank'>Facebook</a></br>
 <a href='https://www.instagram.com/rizqymaulanarym' target='blank'>Instagram</a></br>
-<a href='https://www.facebook.com/groups/236316427460938' target='blank'>Cyber Hacker Indonesia V.2 (CHI v.2) facebook group</a></br>
-Enjoyyy...
+<a href='https://chat.whatsapp.com/KQNSyLV7ysKLY0iIzNHICY' target='blank'>Group Army Cyber Network [ Publik ]</a></br>
+*Enjoyyy...*
